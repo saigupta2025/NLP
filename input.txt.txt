@@ -1,0 +1,3 @@
+Natural Language Processing is good
+Language models help computers understand text.
+NLP is a part of Artificial Intelligence & great.
